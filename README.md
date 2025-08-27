@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi 👋, I'm Cash Vollertsen
+About Me
+🏦 I'm a student at Wayne State College in Nebraska
 
-<!--
-**Cash-Vollertsen/Cash-Vollertsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I’m studing to get my B.S. in chemical engineering
 
-Here are some ideas to get you started:
+👨🏻‍💻 Love programming and resolving problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I like to learn something new
+
+📫 How to reach me cash.vollertsen@gmail.com
+
+Education
+Highscool Diploma from SDA High school in Syracuse Nebraska.
